@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.69d7d914.css",
-    "main.js": "/my-portfolio/static/js/main.680ab0ed.js",
+    "main.css": "/my-portfolio/static/css/main.92221040.css",
+    "main.js": "/my-portfolio/static/js/main.96e2fabd.js",
     "static/js/27.6a22ccc7.chunk.js": "/my-portfolio/static/js/27.6a22ccc7.chunk.js",
     "static/media/salesforce-developer-intern-certificate.png": "/my-portfolio/static/media/salesforce-developer-intern-certificate.3b483dace424bb38a4a3.png",
     "static/media/WeatherApp.png": "/my-portfolio/static/media/WeatherApp.f2bcc0eabe98adbd7e9e.png",
@@ -13,7 +13,7 @@
     "index.html": "/my-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.69d7d914.css",
-    "static/js/main.680ab0ed.js"
+    "static/css/main.92221040.css",
+    "static/js/main.96e2fabd.js"
   ]
 }
