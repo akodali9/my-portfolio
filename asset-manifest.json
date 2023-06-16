@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.3fa68c7d.css",
-    "main.js": "/my-portfolio/static/js/main.96e2fabd.js",
+    "main.css": "/my-portfolio/static/css/main.92221040.css",
+    "main.js": "/my-portfolio/static/js/main.6c34806d.js",
     "static/js/27.6a22ccc7.chunk.js": "/my-portfolio/static/js/27.6a22ccc7.chunk.js",
     "static/media/salesforce-developer-intern-certificate.png": "/my-portfolio/static/media/salesforce-developer-intern-certificate.3b483dace424bb38a4a3.png",
     "static/media/WeatherApp.png": "/my-portfolio/static/media/WeatherApp.f2bcc0eabe98adbd7e9e.png",
     "static/media/AkashKodali-Resume.pdf": "/my-portfolio/static/media/AkashKodali-Resume.edb48cad3334ab6184ce.pdf",
-    "static/media/myImage.jpg": "/my-portfolio/static/media/myImage.c3385b365d47cc286d92.jpg",
+    "static/media/akash.jpg": "/my-portfolio/static/media/akash.4628b767adae448aa2a8.jpg",
     "static/media/WhatsappClone.png": "/my-portfolio/static/media/WhatsappClone.a7af2ea42710656d2bfe.png",
     "static/media/github.png": "/my-portfolio/static/media/github.c518e43bb00eeb87696e.png",
     "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.f2f1f6808df5ac85e210.png",
     "index.html": "/my-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.3fa68c7d.css",
-    "static/js/main.96e2fabd.js"
+    "static/css/main.92221040.css",
+    "static/js/main.6c34806d.js"
   ]
 }
