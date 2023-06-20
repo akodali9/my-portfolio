@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.63cd62a0.css",
-    "main.js": "/my-portfolio/static/js/main.b19f546f.js",
+    "main.css": "/my-portfolio/static/css/main.1807b519.css",
+    "main.js": "/my-portfolio/static/js/main.9f2dd56b.js",
     "static/js/27.6a22ccc7.chunk.js": "/my-portfolio/static/js/27.6a22ccc7.chunk.js",
     "static/media/salesforce-developer-intern-certificate.png": "/my-portfolio/static/media/salesforce-developer-intern-certificate.3b483dace424bb38a4a3.png",
     "static/media/WeatherApp.png": "/my-portfolio/static/media/WeatherApp.f2bcc0eabe98adbd7e9e.png",
-    "static/media/WhatsappClone.png": "/my-portfolio/static/media/WhatsappClone.a7af2ea42710656d2bfe.png",
-    "static/media/_3c33bcaf-3327-4704-bdd2-2c6aed19ec9c.jpeg": "/my-portfolio/static/media/_3c33bcaf-3327-4704-bdd2-2c6aed19ec9c.87827a8af9cee8dfe6fe.jpeg",
+    "static/media/WhatsappClone.png": "/my-portfolio/static/media/WhatsappClone.d2e86e574030941975ea.png",
+    "static/media/depositphotos_137014128-stock-illustration-user-profile-icon.jpg": "/my-portfolio/static/media/depositphotos_137014128-stock-illustration-user-profile-icon.d38ea74ff89af8dd97f3.jpg",
     "static/media/favicon.png": "/my-portfolio/static/media/favicon.f79975ecc01ce1edae51.png",
     "static/media/react.svg": "/my-portfolio/static/media/react.fcca8017310f0cf8ffba4dbf899f2779.svg",
     "static/media/desktop.svg": "/my-portfolio/static/media/desktop.72482678162caf092ddff57aad568b74.svg",
@@ -14,7 +14,7 @@
     "static/media/flutter.svg": "/my-portfolio/static/media/flutter.1fc0baf9e54faad59dff4d7f48f01142.svg"
   },
   "entrypoints": [
-    "static/css/main.63cd62a0.css",
-    "static/js/main.b19f546f.js"
+    "static/css/main.1807b519.css",
+    "static/js/main.9f2dd56b.js"
   ]
 }
