@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.4f7fdc59.css",
+    "main.css": "/my-portfolio/static/css/main.63cd62a0.css",
     "main.js": "/my-portfolio/static/js/main.b19f546f.js",
     "static/js/27.6a22ccc7.chunk.js": "/my-portfolio/static/js/27.6a22ccc7.chunk.js",
     "static/media/salesforce-developer-intern-certificate.png": "/my-portfolio/static/media/salesforce-developer-intern-certificate.3b483dace424bb38a4a3.png",
@@ -14,7 +14,7 @@
     "static/media/flutter.svg": "/my-portfolio/static/media/flutter.1fc0baf9e54faad59dff4d7f48f01142.svg"
   },
   "entrypoints": [
-    "static/css/main.4f7fdc59.css",
+    "static/css/main.63cd62a0.css",
     "static/js/main.b19f546f.js"
   ]
 }
