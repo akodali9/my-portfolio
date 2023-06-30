@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.0a65abaf.css",
-    "main.js": "/my-portfolio/static/js/main.e299a441.js",
+    "main.css": "/my-portfolio/static/css/main.70bac6bc.css",
+    "main.js": "/my-portfolio/static/js/main.b5eb738d.js",
     "static/js/27.6a22ccc7.chunk.js": "/my-portfolio/static/js/27.6a22ccc7.chunk.js",
     "static/media/20220402.jpg": "/my-portfolio/static/media/20220402.c944babd7a646f5babca.jpg",
     "static/media/WeatherApp.png": "/my-portfolio/static/media/WeatherApp.f2bcc0eabe98adbd7e9e.png",
     "static/media/WhatsappClone.png": "/my-portfolio/static/media/WhatsappClone.d2e86e574030941975ea.png",
-    "static/media/favicon.png": "/my-portfolio/static/media/favicon.f79975ecc01ce1edae51.png",
+    "static/media/Ak.png": "/my-portfolio/static/media/Ak.799044fd6cbd8fbd8700.png",
     "static/media/react.svg": "/my-portfolio/static/media/react.598d90dd4f36234e376cbc6ccd571550.svg",
     "static/media/desktop.svg": "/my-portfolio/static/media/desktop.cff852e471dbbc90eb74dfb24da545f7.svg",
     "static/media/flutter.svg": "/my-portfolio/static/media/flutter.5e0ebde82050c8fcdf6121b4498b520c.svg",
     "index.html": "/my-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.0a65abaf.css",
-    "static/js/main.e299a441.js"
+    "static/css/main.70bac6bc.css",
+    "static/js/main.b5eb738d.js"
   ]
 }
