@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.d8da98fb.css",
-    "main.js": "/my-portfolio/static/js/main.b5eb738d.js",
+    "main.css": "/my-portfolio/static/css/main.8570dc34.css",
+    "main.js": "/my-portfolio/static/js/main.48e85a76.js",
     "static/js/27.6a22ccc7.chunk.js": "/my-portfolio/static/js/27.6a22ccc7.chunk.js",
     "static/media/20220402.jpg": "/my-portfolio/static/media/20220402.c944babd7a646f5babca.jpg",
     "static/media/WeatherApp.png": "/my-portfolio/static/media/WeatherApp.f2bcc0eabe98adbd7e9e.png",
     "static/media/WhatsappClone.png": "/my-portfolio/static/media/WhatsappClone.d2e86e574030941975ea.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.c518e43bb00eeb87696e.png",
+    "static/media/linkedin.png": "/my-portfolio/static/media/linkedin.f2f1f6808df5ac85e210.png",
     "static/media/Ak.png": "/my-portfolio/static/media/Ak.799044fd6cbd8fbd8700.png",
     "static/media/react.svg": "/my-portfolio/static/media/react.598d90dd4f36234e376cbc6ccd571550.svg",
     "static/media/desktop.svg": "/my-portfolio/static/media/desktop.cff852e471dbbc90eb74dfb24da545f7.svg",
@@ -13,7 +15,7 @@
     "index.html": "/my-portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.d8da98fb.css",
-    "static/js/main.b5eb738d.js"
+    "static/css/main.8570dc34.css",
+    "static/js/main.48e85a76.js"
   ]
 }
