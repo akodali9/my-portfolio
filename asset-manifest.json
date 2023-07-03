@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9e0c5ab.css",
-    "main.js": "/static/js/main.bb8adebc.js",
+    "main.css": "/static/css/main.c983b767.css",
+    "main.js": "/static/js/main.648bbd11.js",
     "static/js/27.6a22ccc7.chunk.js": "/static/js/27.6a22ccc7.chunk.js",
     "static/media/20220402.jpg": "/static/media/20220402.c944babd7a646f5babca.jpg",
     "static/media/WeatherApp.png": "/static/media/WeatherApp.f2bcc0eabe98adbd7e9e.png",
@@ -15,7 +15,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.f9e0c5ab.css",
-    "static/js/main.bb8adebc.js"
+    "static/css/main.c983b767.css",
+    "static/js/main.648bbd11.js"
   ]
 }
