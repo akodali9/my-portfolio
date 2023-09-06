@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.915492b3.css",
-    "main.js": "/static/js/main.7652db0f.js",
+    "main.js": "/static/js/main.23df84fa.js",
     "static/js/27.6a22ccc7.chunk.js": "/static/js/27.6a22ccc7.chunk.js",
-    "static/media/WeatherApp.png": "/static/media/WeatherApp.c20fc6f0863cd97c7375.png",
-    "static/media/gitamBloodbank.png": "/static/media/gitamBloodbank.6119cc6c7ffc6c353e22.png",
-    "static/media/portfolio.png": "/static/media/portfolio.42d534a337675620d865.png",
-    "static/media/20220402.jpg": "/static/media/20220402.c944babd7a646f5babca.jpg",
-    "static/media/WhatsappClone.png": "/static/media/WhatsappClone.3ed602eb0fd9643a9812.png",
-    "static/media/qrApp.png": "/static/media/qrApp.408f3b8a23fc76d11283.png",
+    "static/media/20220402.webp": "/static/media/20220402.31ad01fe776c6d83753b.webp",
     "static/media/AkashKodali-Resume.pdf": "/static/media/AkashKodali-Resume.edb48cad3334ab6184ce.pdf",
-    "static/media/Ak.png": "/static/media/Ak.065b9475df71766a1f44.png",
+    "static/media/portfolio.webp": "/static/media/portfolio.48f0adf4c4c8d6285a3f.webp",
+    "static/media/WhatsappClone.webp": "/static/media/WhatsappClone.936bc7423c0b940d4cf6.webp",
+    "static/media/gitamBloodbank.webp": "/static/media/gitamBloodbank.f606afe3a386b5e8a7d6.webp",
+    "static/media/WeatherApp.webp": "/static/media/WeatherApp.00e2849b23316528dcdc.webp",
+    "static/media/qrApp.webp": "/static/media/qrApp.b3c4e69d1d37c35c2538.webp",
     "static/media/react.svg": "/static/media/react.598d90dd4f36234e376cbc6ccd571550.svg",
+    "static/media/Ak.webp": "/static/media/Ak.74d7e18574946b9f1b21.webp",
     "static/media/desktop.svg": "/static/media/desktop.cff852e471dbbc90eb74dfb24da545f7.svg",
     "static/media/flutter.svg": "/static/media/flutter.5e0ebde82050c8fcdf6121b4498b520c.svg",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.915492b3.css",
-    "static/js/main.7652db0f.js"
+    "static/js/main.23df84fa.js"
   ]
 }
